@@ -1,0 +1,4 @@
+# 忽略 node_modules、打包目录和公共资源目录
+node_modules
+dist
+public
